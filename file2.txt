@@ -1,1 +1,1 @@
-This is file2 from user1
+This is file2 from user2
